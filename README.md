@@ -1,4 +1,4 @@
-# Sage CRM Context Mmenu
+# Sage CRM Context Menu
 Implements a customisable right-click context menu to all editable form fields withing Sage CRM.
 
 Here is a custom JavaScript file that can be extended with your own functionality.
