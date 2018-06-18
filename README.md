@@ -40,5 +40,5 @@ Currently implements: -
   
  5)  In order to make the changes take effect, all users must logout of Sage CRM and then log back in again
  
- Please note: - By making changes to the JavaScript file and it is already running in a LIVE environment. Users may also have to clear their browsers *cache*
+ Please note: - By making changes to the JavaScript file and if it is already running in a LIVE environment. Users may also have to clear their browsers *cache*
 
