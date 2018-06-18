@@ -27,12 +27,18 @@ Currently implements: -
 
 2)  Login to the Sage CRM Server with local administrative privilages
 
-3)  Download the JavaScript file called zInputContextMenu.js and place it in the following location: -
+3)  Download the JavaScript file called zInputContextMenu.js to your Desktop.
+
+    Please Note: - The filename is prefixed with the letter 'z' to ensure that when Sage CRM loads it's libraries
+
+4)  Make any changes you need to the file and when ready place it in the following location: -
 
     [Base CRM Installation Location]/CRM/WWWRoot/js/custom/
   
     <h6>Example</h6>
     <img src="https://github.com/julianmummery/sagecrm-context-menu/blob/master/contextMenuSetup.png">
   
-  
+ 5)  In order to make the changes take effect, all users must logout of Sage CRM and then log back in again
+ 
+ Please note: - By making changes to the JavaScript file and it is already running in a LIVE environment. Users may also have to clear their browsers *cache*
 
