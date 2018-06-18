@@ -20,9 +20,9 @@ Currently implements: -
 </ul>
 
 <img src="https://github.com/julianmummery/sagecrm-context-menu/blob/master/SageCRM-Context-Menu-Example.png">
-<br/>
+
 # How to Implement
-<br/>
+
 1)  Decide whether you need to make the context menu available to *all* users or just a specific list of usernames
 
 2)  Login to the Sage CRM Server with local administrative privilages
