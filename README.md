@@ -21,6 +21,10 @@ Currently implements: -
 
 <img src="https://github.com/julianmummery/sagecrm-context-menu/blob/master/SageCRM-Context-Menu-Example.png">
 
+<h6>Result</h6>
+
+<img src="https://github.com/julianmummery/sagecrm-context-menu/blob/master/contextMenuAfterClick.png">
+
 # How to Implement
 
 1)  Decide whether you need to make the context menu available to *all* users or just a specific list of usernames
@@ -29,16 +33,17 @@ Currently implements: -
 
 3)  Download the JavaScript file called zInputContextMenu.js to your Desktop.
 
-    Please Note: - The filename is prefixed with the letter 'z' to ensure that when Sage CRM loads it's libraries
+    <b>Please Note</b>: - The filename is prefixed with the letter 'z' to ensure that when Sage CRM loads it's libraries alphabetically it will get to our custom .JS file last. When extending any platform you would be wise to treat the core systems files as a dependency, so by loading it at the end we mitigate any risk of browser loading syntax errors!  
 
 4)  Make any changes you need to the file and when ready place it in the following location: -
 
     [Base CRM Installation Location]/CRM/WWWRoot/js/custom/
   
     <h6>Example</h6>
+    
     <img src="https://github.com/julianmummery/sagecrm-context-menu/blob/master/contextMenuSetup.png">
   
  5)  In order to make the changes take effect, all users must logout of Sage CRM and then log back in again
  
- Please note: - By making changes to the JavaScript file and if it is already running in a LIVE environment. Users may also have to clear their browsers *cache*
+     <br>Please note: - By making changes to the JavaScript file and if it is already running in a LIVE environment. Users may also have to clear their browsers *cache*</b>
 
