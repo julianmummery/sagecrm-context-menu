@@ -48,3 +48,12 @@ Currently implements: -
  
      **Please note: -** By making changes to the JavaScript file and if it is already running in a LIVE environment. Users may also have to clear their browsers **cache**
 
+
+# Points of Interest
+
+1)  The variable called **sSpecificUsersOnly** is being set on line 2 of the .JS code file. This may need to be changed! By default it is set to **'1'** which is set to only allow the 'admin' user access to the right-click context menu. This is intentional as a lot of these Sage CRM systems being worked on in **LIVE** environments. Change this value from **'1'** to **'0'** when you want to allow **all** users access to the context menu
+        
+2)  Adding the context menu icons as **embedded base64 data allows** us to not rely on external paths etc...
+    Normal images can easily be converted and implemented into the existing code using an **online base64 image converter**
+
+
