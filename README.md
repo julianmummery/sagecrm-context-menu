@@ -16,4 +16,4 @@ Currently implements: -
 </ul>
   
 
-<img src="https://github.com/julianmummery/sagecrm-context-menu/blob/master/SageCRM-Context-Menu-Example.jpg">
+<img src="https://github.com/julianmummery/sagecrm-context-menu/blob/master/SageCRM-Context-Menu-Example.png">
