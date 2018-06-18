@@ -271,7 +271,7 @@ var oID = null;
 
 if(sSpecificUsersOnly=='1'){
    // Make the context menu available to specific CRM user accounts only		
-   if(sUsername=="admin" || sUsername=="julianm"){
+   if(sUsername=="admin" || sUsername=="otherusername"){
 	addOnloadHandler(addSpecifics);	
    }	
 }
