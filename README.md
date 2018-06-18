@@ -18,20 +18,20 @@ Currently implements: -
   <li>Clear</li>
   <li>Cancel</li>
 </ul>
-  
 
 <img src="https://github.com/julianmummery/sagecrm-context-menu/blob/master/SageCRM-Context-Menu-Example.png">
-
+<br/>
 # How to Implement
+<br/>
 1)  Decide whether you need to make the context menu available to *all* users or just a specific list of usernames
 
 2)  Login to the Sage CRM Server with local administrative privilages
 
 3)  Download the JavaScript file called zInputContextMenu.js and place it in the following location: -
 
-    <Base CRM Location>/CRM/WWWRoot/js/custom/
+    [Base CRM Installation Location]/CRM/WWWRoot/js/custom/
   
-    Example
+    <h6>Example</h6>
     <img src="https://github.com/julianmummery/sagecrm-context-menu/blob/master/contextMenuSetup.png">
   
   
