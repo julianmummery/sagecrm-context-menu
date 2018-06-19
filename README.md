@@ -63,4 +63,4 @@ Currently implements: -
 <hr />
 
 If you would like to take a look at my other Projects / Examples please use the following link: -
-<a href="https://julianmummery.github.io" target="_blank">https://julianmummery.github.io</a>
+<a alt="Julian Mummery's Portfolio" href="https://julianmummery.github.io">https://julianmummery.github.io</a>
