@@ -61,3 +61,5 @@ Currently implements: -
     Normal images can easily be converted and implemented into the existing code using an **online base64 image converter**
 
 
+If you would like to take a look at my other Projects / Examples please use the following link: -
+<a shref="https://julianmummery.github.io" target="_blank">https://julianmummery.github.io</a>
