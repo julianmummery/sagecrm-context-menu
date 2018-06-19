@@ -60,7 +60,9 @@ Currently implements: -
 2)  Adding the context menu icons as **embedded base64 data allows** us to not rely on external paths etc...
     Normal images can easily be converted and implemented into the existing code using an **online base64 image converter**
 
+
 <hr />
 
+
 If you would like to take a look at my other Projects / Examples please use the following link: -
-<a alt="Julian Mummery's Portfolio" href="https://julianmummery.github.io">https://julianmummery.github.io</a>
+<a href="https://julianmummery.github.io">https://julianmummery.github.io</a>
