@@ -53,7 +53,7 @@ Currently implements: -
 
 1)  The variable called **sSpecificUsersOnly** is being set on line 2 of the .JS code file. This may need to be changed! By default it is set to **'1'** which is set to only allow the 'admin' user access to the right-click context menu. This is intentional as a lot of these Sage CRM systems being worked on in **LIVE** environments. Change this value from **'1'** to **'0'** when you want to allow **all** users access to the context menu
 
-    <h5>Example</h5>
+    **<h5>Example</h5>**
     var sSpecificUsersOnly = '1'; // 0 = All CRM users can use the context menu / 1 = Only Specific users can use the context menu
 
 
