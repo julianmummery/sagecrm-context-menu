@@ -10,7 +10,7 @@ Here is a custom JavaScript file that can be extended with your own functionalit
 Currently implements: -
 
 <ul>
-  <li>Sentance Case</li>
+  <li>Sentence Case</li>
   <li>Title Case</li>
   <li>Proper Case</li>
   <li>Upper Case</li>
